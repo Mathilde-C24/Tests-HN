@@ -116,8 +116,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 🙏 Remerciements
 
-- Projet de recherche sur la correspondance de Saint-Domingue
-- Classiques Garnier (édition des correspondances)
+- L'équipe du M1 HN de Lyon
 
 ## 📊 Métadonnées FAIR
 
