@@ -37,7 +37,7 @@ MOIS_GREGORIENS = {
     'février': 2, 'fevrier': 2, 'fév.': 2, 'fev.': 2, 'fev': 2,
     'mars': 3,
     'avril': 4, 'avr.': 4, 'avr': 4,
-    'mai': 5,
+    'mai': 5, "may" : 5,
     'juin': 6,
     'juillet': 7, 'juil.': 7, 'juil': 7,
     'août': 8, 'aoust': 8, 'aout': 8,
