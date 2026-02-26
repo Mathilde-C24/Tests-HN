@@ -1,0 +1,29 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Fichiers de sortie
+*.csv
+correspondance_*.csv
+
+# Fichiers Word temporaires
+~$*.docx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données sensibles (à adapter selon besoin)
+# *.docx
